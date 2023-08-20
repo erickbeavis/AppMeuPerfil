@@ -100,7 +100,7 @@ export default function App() {
     Projetos:
 
         </Text>
-<TouchableOpacity onPress={() => Linking.openURL('https://github.com/erickbeavis')} style={{ marginLeft: 25 }}>
+<TouchableOpacity onPress={() => Linking.openURL('https://github.com/erickbeavis/AppMeuPerfil/blob/main/Projeto%20Meu%20Perfil/App.js')} style={{ marginLeft: 25 }}>
         <Image
           source={{ 
             uri: 'https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Simbolo.png' }}
